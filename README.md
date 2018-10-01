@@ -22,4 +22,4 @@
 
 **Conclusion :** I have learnt different approaches and rules to clean data which is very crucial step before analysis.
 
-**Link of Work :** https://manglasourav.github.io/2018/10/01/preprocessing.html
+**Link of Work :** https://manglasourav.github.io/preprocessing/
