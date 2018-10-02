@@ -10,16 +10,18 @@
 
 ## Day 2: September 30, 2018
 
-**Today's Progress :**    
+**Today's Work :** I have solved the 1st assignment of [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/).
 
-**Conclusion :** 
-
-**Link of Work :** 
+**Link of Work :** [Here](https://github.com/ManglaSourav/Open-Machine-Learning-Course/blob/master/1st_Assignment.ipynb)
 
 ## Day 3: October 01, 2018
 
-**Today's Progress :** I decided to work on one of the preprocessing tasks: Cleaning of data.  
-
-**Conclusion :** I have learnt different approaches and rules to clean data which is very crucial step before analysis.
+**Today's Work :** I decided to work on one of the preprocessing tasks: Cleaning of data.  
 
 **Link of Work :** https://manglasourav.github.io/preprocessing/
+
+## Day 3: October 02, 2018
+
+**Today's work :** I have studied about Regularized Linear Models.  
+
+**Link of Work :** https://manglasourav.github.io/regularized_models/
