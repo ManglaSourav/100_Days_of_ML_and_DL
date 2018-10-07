@@ -25,3 +25,27 @@
 **Today's work :** I have studied about Regularized Linear Models.  
 
 **Link of Work :** https://manglasourav.github.io/regularized_models/
+
+## Day 4: October 03, 2018
+
+**Today's Work :** Studying about Clustering.
+
+## Day 5: October 04, 2018
+
+**Today's Work :** 
+
+## Day 6: October 05, 2018
+
+**Today's Work :** 
+
+## Day 7: October 06, 2018
+
+**Today's Work :** 
+
+## Day 8: October 07, 2018
+
+**Today's Work :** 
+
+## Day 9: October 08, 2018
+
+**Today's Work :** 
