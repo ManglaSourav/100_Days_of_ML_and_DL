@@ -44,7 +44,7 @@
 
 ## Day 8: October 07, 2018
 
-**Today's Work :** 
+**Today's Work :** Did a Hackerearth problem : [HDFC Bank Machine Learning Hiring Challenge](https://www.hackerearth.com/challenge/hiring/hdfc-bank-ml-hiring-challenge/)
 
 ## Day 9: October 08, 2018
 
