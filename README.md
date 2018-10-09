@@ -49,3 +49,7 @@
 ## Day 9: October 08, 2018
 
 **Today's Work :** 
+
+## Day 10: October 09, 2018
+
+**Today's Work :** Did a kaggle competition:[PUBG Finish Placement Prediction ](https://www.kaggle.com/c/pubg-finish-placement-prediction)
