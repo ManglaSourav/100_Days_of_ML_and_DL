@@ -35,4 +35,4 @@
 
 ## Day 7: 
 
-**Today's Work :** Did a kaggle competition:[PUBG Finish Placement Prediction ](https://www.kaggle.com/c/pubg-finish-placement-prediction)
+**Today's Work :** Did a kaggle competition : [PUBG Finish Placement Prediction ](https://www.kaggle.com/c/pubg-finish-placement-prediction)
